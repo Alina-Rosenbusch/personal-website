@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+}
+
+body { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 35px;
+    background-color: lightgoldenrodyellow;
+}
+
+h1{
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+h2{
+    font-size: 1rem;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+
+article {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: lightsalmon;
+}
