@@ -8,8 +8,23 @@ html{
 body { 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 35px;
-    background-color: lightgoldenrodyellow;
+    background-color: lightgoldenrodyellow; 
 }
+
+.menu{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.menu > li{
+    color: darkolivegreen;
+    padding: 10px;
+    background-color: grey;
+    border-radius: 30%;
+}
+
 
 h1{
     font-size: 2rem;
